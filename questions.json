@@ -1,0 +1,156 @@
+[ {
+    "question": "What is the amorphous allotrope of carbon?",
+    "choices": ["Coal", "Coke", "Diamond", "Charcoal"],
+    "answer": "Charcoal"
+},
+  {
+    "question": "What is the capital of the United States?",
+    "choices": ["New York", "Washington, D.C.", "Los Angeles", "Chicago"],
+    "answer": "Washington, D.C."
+  },
+  {
+    "question": "What is 9 x 8?",
+    "choices": ["72", "81", "64", "88"],
+    "answer": "72"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "choices": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "choices": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "choices": ["Blue Whale", "Elephant", "Giraffe", "Great White Shark"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "choices": ["H2O", "O2", "CO2", "HO"],
+    "answer": "H2O"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "choices": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "choices": ["1", "2", "3", "0"],
+    "answer": "2"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "choices": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "choices": ["Tokyo", "Osaka", "Kyoto", "Nagasaki"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "choices": ["12", "14", "10", "16"],
+    "answer": "12"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "choices": ["Gold", "Diamond", "Iron", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "choices": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the speed of light?",
+    "choices": ["299,792 km/s", "300,000 km/s", "150,000 km/s", "299,000 km/s"],
+    "answer": "299,792 km/s"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "choices": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "choices": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choices": ["Sahara", "Antarctica", "Gobi", "Kalahari"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which blood type is known as the universal donor?",
+    "choices": ["O-", "A+", "B-", "AB+"],
+    "answer": "O-"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "choices": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "choices": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "choices": ["6", "5", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "choices": ["Pound Sterling", "Euro", "Dollar", "Franc"],
+    "answer": "Pound Sterling"
+  },
+  {
+    "question": "What is the smallest ocean in the world?",
+    "choices": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Pacific Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "choices": ["Avocado", "Tomato", "Onion", "Pepper"],
+    "answer": "Avocado"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "choices": ["Mount Everest", "K2", "Kangchenjunga", "Makalu"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the first element on the periodic table?",
+    "choices": ["Hydrogen", "Helium", "Lithium", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choices": ["Japan", "China", "Thailand", "South Korea"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is 3 squared?",
+    "choices": ["9", "6", "12", "8"],
+    "answer": "9"
+  }
+]
